@@ -12,6 +12,4 @@
 Just a Student In Love with Technology ❤️
 
 
- ![Snake animation](https://github.com/Iran-Days/Iran-Days/blob/output/github-contribution-grid-snake.svg)
-
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Iran-Days&repo=Iran-Days&theme=react)](https://github.com/Iran-Days/Iran-Days)
+ 
